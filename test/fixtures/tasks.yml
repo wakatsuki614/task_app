@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  title: MyString
+  start_date: 2021-11-23
+  end_date: 2021-11-23
+  all_day: MyString
+  body: MyText
+
+two:
+  user_id: 1
+  title: MyString
+  start_date: 2021-11-23
+  end_date: 2021-11-23
+  all_day: MyString
+  body: MyText
